@@ -1,6 +1,6 @@
 package mage
 
-var GolangCILintVersion = "1.53.3"
+var GolangCILintVersion = "1.56.2"
 
 type ReleaseType string
 
